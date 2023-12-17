@@ -56,6 +56,6 @@ if st.button('Submit'):
     if a>=4:
         st.balloons()
         st.header("It's a Match")
-        st.write("Contact her:+919481804500")
+        st.write("Contact her: +919481804500")
     else:
         st.write("Thank You")
